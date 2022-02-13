@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @felixrodrigo19
 - 👀 I’m interested in DevOps, data universes and machine learning
-- 🌱 I’m currently learning python, project management and machine learning
-- 💞️ I’m looking to collaborate on projects python
+- 🌱 I’m currently learning python, project management and machine learning, but I'm always in the learning process
+- 💞️ I’m looking to collaborate on projects python and data science
 - 📫 How to reach me: linkedin.com/in/rodrigosfelix/
 
 <!---
