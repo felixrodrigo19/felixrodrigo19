@@ -3,7 +3,7 @@
 
 ## About Me
 
-My name is **Rodrigo dos Santos Felix**, I'm 26 years old and I'm a student of **Information System** at Centro Universitário de Bauru (**CEUB**) in Brazil.
+My name is **Rodrigo dos Santos Felix**, I'm 26 years old and I studied **Information Systems** at Centro Universitário de Bauru (**CEUB**) in Brazil.
 I am currently deepening my knowledge of python and the data manipulation and analysis and ML libraries to solve problems involving data.
 
 - 🌱 I’m currently learning: 
