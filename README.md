@@ -27,7 +27,13 @@ I am currently deepening my knowledge of python and the data manipulation and an
 - 💞️ I’m looking to collaborate on projects python and data science
 
 
-<!---
-felixrodrigo19/felixrodrigo19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2 align="center"><u>My Github Stats</u></h2>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixrodrigo19&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
+<br>
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=felixrodrigo19&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
+<br>
+<br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felixrodrigo19&theme=holi-theme">
+</p>
