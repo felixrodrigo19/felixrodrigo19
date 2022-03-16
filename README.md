@@ -33,7 +33,4 @@ I am currently deepening my knowledge of python and the data manipulation and an
 <br>
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=felixrodrigo19&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
-<br>
-<br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felixrodrigo19&theme=holi-theme">
 </p>
