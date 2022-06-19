@@ -3,8 +3,13 @@
 
 ## About Me
 
-My name is **Rodrigo dos Santos Felix**, I'm 26 years old and I studied **Information Systems** at Centro Universitário de Bauru (**CEUB**) in Brazil.
-I am currently deepening my knowledge of python and the data manipulation and analysis and ML libraries to solve problems involving data.
+Throughout my studies and career I have always been passionate about improving processes and quality through technology and data.
+
+I had opportunities to learn and work with the best professionals in the field, during my graduation at Centro Universitário de Bauru – ITE and companies that helped to understand my passion. I currently work at Cotefacil, participating in the systems integration team.
+
+I worked on several personal projects to improve my skills in Software Development and Data Science using the **Python programming language, Flask Framework, MongoDB Database, MySQL and SQL Server. I'm currently studying Google Cloud Platform (GCP) and AWS**.
+
+If you would like to discuss these topics, please contact me!
 
 - 🌱 I’m currently learning: 
 <code><img height="25" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/flask/flask-original.svg"></code>
