@@ -12,13 +12,14 @@ I worked on several personal projects to improve my skills in Software Developme
 If you would like to discuss these topics, please contact me!
 
 - 🌱 I’m currently learning: 
-<code><img height="25" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/flask/flask-original.svg"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/docker/docker-original.svg"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/git/git-original.svg"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/tensorflow/tensorflow-original.svg"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/pandas/pandas-original.svg"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/kubernetes/kubernetes-plain.svg"></code>
+
+  - Flask <code><img height="25" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/flask/flask-original.svg"></code>
+  - Docker <code><img height="20" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/docker/docker-original.svg"></code>
+  - Python OOP <code><img height="20" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg"></code>
+  - Git <code><img height="20" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/git/git-original.svg"></code>
+  - TensorFlow <code><img height="20" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/tensorflow/tensorflow-original.svg"></code>
+  - Pandas <code><img height="20" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/pandas/pandas-original.svg"></code>
+  - Kubernetes <code><img height="20" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/kubernetes/kubernetes-plain.svg"></code>
 
 
 
