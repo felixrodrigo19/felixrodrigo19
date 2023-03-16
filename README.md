@@ -3,27 +3,26 @@
 
 ## About Me
 
-Throughout my studies and career I have always been passionate about improving processes and quality through technology and data.
+I am Rodrigo dos Santos Felix, a Python Developer from Brasil. I graduated with a bachelor's degree in Information Systems from Centro Universitario de Bauru (CEUB) in 2022.
 
-I had opportunities to learn and work with the best professionals in the field, during my graduation at Centro Universitário de Bauru – ITE and companies that helped to understand my passion. I currently work at Cotefacil, participating in the systems integration team.
-
-I worked on several personal projects to improve my skills in Software Development and Data Science using the **Python programming language, Flask Framework, MongoDB Database, MySQL and SQL Server. I'm currently studying Google Cloud Platform (GCP) and AWS**.
-
-If you would like to discuss these topics, please contact me!
-
-- 🌱 I’m currently learning: 
-
-  - Flask <code><img height="25" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/flask/flask-original.svg"></code>
-  - Docker <code><img height="20" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/docker/docker-original.svg"></code>
-  - Python OOP <code><img height="20" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg"></code>
-  - Git <code><img height="20" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/git/git-original.svg"></code>
-  - TensorFlow <code><img height="20" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/tensorflow/tensorflow-original.svg"></code>
-  - Pandas <code><img height="20" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/pandas/pandas-original.svg"></code>
-  - Kubernetes <code><img height="20" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/kubernetes/kubernetes-plain.svg"></code>
+As a Python Developer, I possess the following skills:
 
 
+- Python OOP
+- TDD (Test Driven Development)
+- Flask Framework
+- Database and ORM such as SQLAlchemy
+- Web crawling with Scrapy
+- AWS (EC2, ECS, Lambda, S3 and SQS)
+- IaC with Terraform and Ansible
+- Docker
+- GitHub Actions
 
-- 💞️ I’m looking to collaborate on projects python and data science
+Previously, I interned at LPNet Internet Provider in Lençóis Paulista - SP from 2019 to 2020, where I provided technical support for IT, telephony, access control systems, and support for Windows and Linux operating systems. I was then hired as an IT assistant, where I worked until 2022 with the same responsibilities, while also participating in planning, developing and implementing small systems for internal use.
+
+Currently, I work as a Python Developer at Cotefácil in Bauru - SP. My responsibilities include integrating the Cotefácil system with partner drug distributor systems, consuming APIs from partner drug distributors using the Python programming language, running web scraping with the Scrapy framework, writing CI/CD pipeline scripts or routines, and configuring cloud infrastructure on AWS.
+
+I've had the opportunity to build web crawling projects from web pages using XPath and back-end response (API), making the processes easier and faster. I'm currently studying TDD and using it to create new projects and features.
 
 
 <h2 align="center"><u>My Github Stats</u></h2>
