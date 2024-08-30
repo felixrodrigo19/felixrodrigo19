@@ -3,10 +3,6 @@
 👩🏻‍🎓 Studied Information Systems at the Centro Universitario de Bauru (CEUB), Brazil<br/>
 💭 Currently learning about software architecture and solution architecture!<br/>
 
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/rodrigosfelix/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:felixs.rodrigo@gmail.com)
-
 
 # 💻 Tech Stack:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
